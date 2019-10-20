@@ -8,13 +8,13 @@
     width: 60%;
     }
 }
-.accordian-headers {
+.accordion-headers {
   height: 60px;
   display: flex;
   align-items: center;
   background-color: lightblue;
   margin: 10px auto;
-  color: darkgray;
+  color: darkblue;
   padding: 0 20px;
   justify-content: space-between;
 }
